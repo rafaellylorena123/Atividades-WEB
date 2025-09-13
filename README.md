@@ -3,7 +3,7 @@ Este Repositório contém as Atvidades de HTML!
 
 [Atividade 1](https://rafaellylorena123.github.io/Ativdade1/)
 
-[Atividade 2]
+[Atividade 2](https://rafaellylorena123.github.io/Atividade2/)
 
 [Atividade 3]
 
